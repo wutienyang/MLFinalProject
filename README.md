@@ -1,0 +1,2 @@
+# MLFinalProject
+GaussianMixtureModel,Kmeans,SpectralClustering
